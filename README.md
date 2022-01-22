@@ -1,10 +1,4 @@
-<a href="https://codersandtechies.com" target="_blank"> <img src="./GitHub Banner/Banner_image_with_removed_background.png"/>  </a>
-
-
-<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose.io</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
+<img align="left" width="150" height="150" alt="Dani Akash" src="./GitHub Banner/avatar.png"/>
 
 ### I'm [Dani Akash][homepage]
 
