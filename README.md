@@ -5,15 +5,22 @@
   </a>
 
 
-I am Full-Stack developer from India. I love building applications & discussing new product ideas. Reach out to me on   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> if you'd like to talk ✌️
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/dani_akash_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/dani_akash_?label=LiveStream&style=for-the-badge)][twitch] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dani_akash_?style=for-the-badge)][reddit]
+I am Full-Stack developer from India. I love building applications & discussing new product ideas. Reach out to me if you'd like to talk ✌️
+<h5 align="center">
+  <code>
+     <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/youtube.png"> Youtube </a></code>
+     <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/linkedin.svg">LinkedIn </a></code>
+   <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/Telegram_logo.svg"> Telegram </a></code>
+  <code><a href="#" title="Instagram Profile"><img width="22" src="./GitHub Banner/instagram.svg"> Instagram</a> </code>
+   <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/stackoverflow.svg"> Stack Overflow </a></code>
+  <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/hackerrank.png"> HackerRank </a></code>
+</h5>
 
 ### I'm Currently
 
-- 📱 Building a cool mobile app for [Pickyourtrail][pickyourtrail]
+- 📱 Building a cool Web app.
 - 📚 Mentoring budding programmers
-- ⚛️ Building open source [react native components][rn-toolkit]
+- ⚛️ Building Full-stack projects
 - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
 
 ### Stuff I'm really good at
@@ -60,13 +67,7 @@ I am Full-Stack developer from India. I love building applications & discussing 
   </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+
 <br>
  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
