@@ -1,7 +1,7 @@
 <img align="left" width="150" height="150" alt="Dani Akash" src="./GitHub Banner/avatar.png"/>
 
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Wellcome+to+Coders+And+Techies....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wellcome+to+Coders+And+Techies....;Nice+to+meet+you!&center=true&size=30">
   </a>
 
 
