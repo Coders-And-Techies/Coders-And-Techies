@@ -8,12 +8,12 @@
 I am Full-Stack developer from India. I love building applications & discussing new product ideas. Reach out to me if you'd like to talk ✌️
 <h5 align="center">
   <code>
-     <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/youtube.png"> Youtube </a></code>
-     <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/linkedin.svg">LinkedIn </a></code>
-   <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/Telegram_logo.svg"> Telegram </a></code>
-  <code><a href="#" title="Instagram Profile"><img width="22" src="./GitHub Banner/instagram.svg"> Instagram</a> </code>
-   <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/stackoverflow.svg"> Stack Overflow </a></code>
-  <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/hackerrank.png"> HackerRank </a></code>
+     <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/youtube.png"> Youtube &nbsp </a></code>
+     <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/linkedin.svg">LinkedIn &nbsp</a></code>
+   <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/Telegram_logo.svg"> Telegram &nbsp</a></code>
+  <code><a href="#" title="Instagram Profile"><img width="22" src="./GitHub Banner/instagram.svg"> Instagram</a> &nbsp</code>
+   <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/stackoverflow.svg"> Stack Overflow &nbsp</a></code>
+  <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/hackerrank.png"> HackerRank &nbsp</a></code>
 </h5>
 <hr>
 ### I'm Currently
