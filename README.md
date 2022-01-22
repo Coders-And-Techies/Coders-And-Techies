@@ -1,6 +1,8 @@
 <img align="left" width="150" height="150" alt="Dani Akash" src="./GitHub Banner/avatar.png"/>
 
-### I'm [Dani Akash][homepage]
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Wellcome to Coders And Techies....;Nice+to+meet+you!&center=true&size=30">
+  </a>
 
 A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
