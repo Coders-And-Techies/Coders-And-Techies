@@ -16,16 +16,14 @@
  <a href="https://mohitbaldawa.com" target="_blank"> <img src="./portfolio.png"/>  </a> </h2> <hr><br>
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=MohitBaldawa&show_icons=true&theme=tokyonight">
-   <img src='https://github-readme-stats.vercel.app/api?username=MohitBaldawa&show_icons=true&theme=tokyonight'/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitBaldawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MohitBaldawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
-</a>
-
 ## Quick overview
 * GitHub stats:  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Coders-And-Techies&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a> 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitBaldawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MohitBaldawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
+</a>
+
+
 
