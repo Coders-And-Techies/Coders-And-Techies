@@ -1,4 +1,4 @@
-<a href="https://codersandtechies.com" target="_blank"> <img src="https://github.com/Coders-And-Techies/Coders-And-Techies/blob/main/GitHub%20Banner/GitHub_Banner_Image.jpg"/>  </a>
+<a href="https://codersandtechies.com" target="_blank"> <img src="./GitHub Banner/Banner_image_with_removed_background.png"/>  </a>
 
 
 <p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose.io</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
